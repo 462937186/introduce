@@ -1,8 +1,8 @@
 import { defineConfig } from 'umi';
 
 export default defineConfig({
-  base: './',
-  publicPath: './',
+  base: '/',
+  publicPath: '/',
   nodeModulesTransform: {
     type: 'none',
   },
